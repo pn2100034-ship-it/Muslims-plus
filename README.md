@@ -1,2 +1,15 @@
-# Muslims-plus
-MUSLIM PLUS est une application islamique proposant les horaires de prière, l'Adhan automatique, le Coran en arabe, français et wolof, les récitations audio, les invocations, les hadiths, le Tasbih, la direction de la Qibla et le calendrier islamique. La foi au quotidien.
+Muslims Plus
+
+Muslims Plus est une application mobile destinée à la communauté musulmane.
+
+Elle permet aux utilisateurs de renforcer leur foi et de pratiquer leur religion au quotidien grâce à des fonctionnalités utiles :
+
+- Lecture du Saint Coran.
+- Horaires de prière.
+- Direction de la Qibla.
+- Invocations (Douas).
+- Rappels islamiques.
+- Calendrier musulman.
+- Hadiths et enseignements islamiques.
+
+Notre objectif : accompagner chaque musulman dans sa pratique quotidienne de l'islam.
